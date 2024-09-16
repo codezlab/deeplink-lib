@@ -1,4 +1,4 @@
-package com.codezlab.deep_link_lib
+package com.codezlab.mydeeplink
 
 import org.junit.Test
 

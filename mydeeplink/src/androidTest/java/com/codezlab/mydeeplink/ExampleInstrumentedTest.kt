@@ -1,4 +1,4 @@
-package com.codezlab.deep_link_lib
+package com.codezlab.mydeeplink
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

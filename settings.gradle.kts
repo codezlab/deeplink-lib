@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "deeplink-lib"
 include(":app")
-include(":deep-link-lib")
+include(":mydeeplink")
